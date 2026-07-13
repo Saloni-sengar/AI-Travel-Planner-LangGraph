@@ -328,7 +328,6 @@ The project demonstration video will showcase:
 
 # 📸 Project Screenshots
 
-> *(Create an `images` folder and add your screenshots here.)*
 
 
 
